@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Sean",
+        "player": {
+            "currenthp": 1350,
+            "currentroom": 1,
+            "inventory": [],
+            "money": 120,
+            "occupation": "Warrior",
+            "weapon": "Wand"
+        },
+        "room": [
+            {
+                "Object": []
+            },
+            {
+                "Object": []
+            },
+            {
+                "Object": [
+                    "Monster"
+                ]
+            },
+            {
+                "Object": [
+                    "Monster",
+                    "Sword"
+                ]
+            },
+            {
+                "Object": [
+                    "Merchant"
+                ]
+            },
+            {
+                "Object": [
+                    "Monster",
+                    "Arrow"
+                ]
+            },
+            {
+                "Object": [
+                    "Mystery"
+                ]
+            },
+            {
+                "Object": []
+            },
+            {
+                "Object": [
+                    "boss"
+                ]
+            }
+        ]
+    }
+]
