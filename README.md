@@ -1,4 +1,15 @@
-# Dungeon
+<h1 align="center">Dungeon</h1>
+<h4 align="center">A C++ based dungeon adventure game</h4>
+<p align="center">
+  <a href="#introduction">Introduction</a> •
+  <a href="#play">Play</a> •
+  <a href="#compile--run">Compile & Run</a> •
+  <a href="#features">Features</a> •
+  <a href="#acknowledgments">Acknowledgments</a> •
+  <a href="#supplements">Supplements</a>
+</p>
+![Demo](demo.gif)
+<hr>
 
 > This is the midterm project for course Data Structures and Object-oriented Programming in NYCU.
 > More course info:
@@ -37,7 +48,7 @@ Alternatively, if you have make installed, you can run make directly to get the 
 ## Acknowledgments
 Thanks to [@nlohmann](https://github.com/nlohmann) for providing such useful JSON tools for C++. [nlohmann/json](https://github.com/nlohmann/json)
 
-## Supplement
+## Supplements
 - [report.pdf](report.pdf): A comprehensive overview of the game, covering game logic, implementation details, and reflections on the development process. (Written in Chinese)
 - map
     <div align="center">
