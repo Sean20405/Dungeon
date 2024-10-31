@@ -40,5 +40,11 @@ Thanks to [@nlohmann](https://github.com/nlohmann) for providing such useful JSO
 ## Supplement
 - [report.pdf](report.pdf): A comprehensive overview of the game, covering game logic, implementation details, and reflections on the development process. (Written in Chinese)
 - map
+    <div align="center">
+        <img alt="map" src="map.png">
+    </div>
 - UML
+    <div align="center">
+        <img alt="UML" src="UML.png">
+    </div>
 - [Demo Video](https://youtu.be/Qb45GCcZc4w)
